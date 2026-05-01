@@ -21,7 +21,7 @@ __pycache__/
 .idea/
 
 # Streamlit specific
-.streamlit/
+.streamlit/secrets.toml
 
 # Testing and unnecessary files
 test_utils.py
